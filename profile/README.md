@@ -1,12 +1,23 @@
-## Hi there 👋
+<br />
+<p align="center">
+  <a href="https://github.com/buff-buff-studio">
+    <img src="https://avatars.githubusercontent.com/u/124938157?s=200&v=4" alt="Sketch Fleets: Recolored Logo" width="350" height="350">
+  </a>
+ 
+<h3 align="center">Buff Buff Studios 🐸</h3>
+  <p align="center">
+    A Indie Game Studio
+    <br />
+  </p>
+</p>
 
-<!--
+### Softwares
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Unity](https://unity.com/)
+* [Blender](https://www.blender.org/)
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+* [Krita](https://krita.org)
+* [Adobe Audition](https://www.adobe.com/products/audition.html)
+* [Audacity](https://www.audacityteam.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [JetBrains Rider](https://www.jetbrains.com/rider/)
