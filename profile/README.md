@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/buff-buff-studio">
-    <img src="https://avatars.githubusercontent.com/u/124938157?s=200&v=4" alt="Sketch Fleets: Recolored Logo" width="350" height="350">
+    <img src="https://github.com/buff-buff-studio/.github/assets/17664054/1863e690-7203-4efd-8012-2696e6ec285a" alt="Buff Buff Logo" width="350" height="195">
   </a>
  
 <h3 align="center">Buff Buff Studios 🐸</h3>
